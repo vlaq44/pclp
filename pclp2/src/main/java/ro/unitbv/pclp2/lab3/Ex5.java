@@ -8,7 +8,6 @@ public class Ex5 {
         System.out.print("Introduceti varsta dumneavoastra: ");
         int x = scanner.nextInt();
         scanner.close();
-
         switch (x) {
             case 0:
                 System.out.println("Varsta invalida");
