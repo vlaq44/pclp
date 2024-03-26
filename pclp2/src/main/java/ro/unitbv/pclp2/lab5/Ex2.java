@@ -7,7 +7,7 @@ public class Ex2 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the text: ");
         String str = scanner.nextLine();
-        //Largest number
-        //Smallest number
+        //Largest word
+        //Smallest word
     }
 }
