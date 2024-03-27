@@ -6,19 +6,21 @@ public class Ex1 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the password: ");
         String pw = scanner.nextLine();
-        //Dividing the steps
         boolean hasMinLength = pw.length() >= 8;
-        boolean hasNoSpaces = !pw.contains(" ");
-        boolean startsWithUppercase = Character.isUpperCase(pw.charAt(0));
+        boolean hasNoSpaces = true;
+        boolean startsWithUppercase = false;
         boolean hasSpecialChar = false;
+        boolean checkFirstLetter = true;
         for (char c : pw.toCharArray()) {
-            if (!Character.isLetterOrDigit(c)) {
-                hasSpecialChar = true;
-                break;
-            }
+            if ( c == ' ')
+                hasNoSpaces = false;
+            else if( c > 'A' && c < 'Z' && checkFirstLetter)
+            {
+                startsWithUppercase =true;
+                checkFirstLetter=false;
+            }else if (c < 'a' || c > 'z')
+                hasSpecialChar=true;
         }
-
-        // Print validation result
         if (hasMinLength && hasNoSpaces && startsWithUppercase && hasSpecialChar) {
             System.out.println("Password is valid!");
         } else {
