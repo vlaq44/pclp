@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ec44ad-753d-4ba9-8eed-6ff13c43b051" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab6/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab6/Fractie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab6/Numar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab6/TestPunct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab5/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab5/Ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +38,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.ComplexNumber.executor": "Run",
     "Application.Ex1.executor": "Run",
     "Application.Ex2.executor": "Run",
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
     "Application.Ex5.executor": "Run",
+    "Application.TestPunct.executor": "Run",
     "Application.ro.unitbv.pclp2.lab4.Ex1.executor": "Run",
     "Application.ro.unitbv.pclp2.lab5.Ex1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "LAB3",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Radu/Documents/GitHub/pclp/pclp2/src/main/java/ro/unitbv/pclp2/lab4",
@@ -124,7 +131,8 @@
       <workItem from="1711046753098" duration="8229000" />
       <workItem from="1711438082536" duration="1824000" />
       <workItem from="1711468452407" duration="3303000" />
-      <workItem from="1711574932314" duration="2695000" />
+      <workItem from="1711574932314" duration="2822000" />
+      <workItem from="1712070383455" duration="3825000" />
     </task>
     <servers />
   </component>
