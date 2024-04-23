@@ -7,7 +7,6 @@ public class Ex4 {
         String a = scanner.nextLine();
         System.out.println("Second Line:");
         String b = scanner.nextLine();
-        System.out.println("Comparing " + a + " and " + b + ": " +
-                (a.equals(b)));
+        System.out.println("Comparing " + a + " and " + b + ": " + (a.equals(b)));
     }
 }
