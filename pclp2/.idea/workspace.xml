@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ec44ad-753d-4ba9-8eed-6ff13c43b051" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab6/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab6/Fractie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab6/Numar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab6/TestPunct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab7/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab5/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/unitbv/pclp2/lab5/Ex4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,7 @@
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
     "Application.Ex5.executor": "Run",
+    "Application.Test4.executor": "Run",
     "Application.TestPunct.executor": "Run",
     "Application.ro.unitbv.pclp2.lab4.Ex1.executor": "Run",
     "Application.ro.unitbv.pclp2.lab5.Ex1.executor": "Run",
@@ -52,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "LAB3",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Radu/Documents/GitHub/pclp/pclp2/src/main/java/ro/unitbv/pclp2/lab4",
+    "last_opened_file_path": "C:/Users/Radu/Documents/GitHub/pclp/pclp2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +59,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
     "two.files.diff.last.used.folder": "C:/Users/Radu/Documents/GitHub/pclp/pclp2/src/main/java/ro/unitbv/pclp2/lab4",
     "vue.rearranger.settings.migration": "true"
   }
@@ -99,14 +98,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-        <option value="jdk-21.0.2-temurin-21.0.2-4caba194b151-7da56cdf" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -132,7 +123,11 @@
       <workItem from="1711438082536" duration="1824000" />
       <workItem from="1711468452407" duration="3303000" />
       <workItem from="1711574932314" duration="2822000" />
-      <workItem from="1712070383455" duration="3825000" />
+      <workItem from="1712070383455" duration="5648000" />
+      <workItem from="1712081177526" duration="7000" />
+      <workItem from="1712670738106" duration="59000" />
+      <workItem from="1712671149321" duration="43000" />
+      <workItem from="1713257210509" duration="3000" />
     </task>
     <servers />
   </component>
